@@ -15,7 +15,7 @@ public class Fakultaet {
 		for(i = 1; i <= num; i++) {
 			fact = fact * i;
 		}
-		System.out.println("die Fakultaet von " + num + "betraegt: " + fact);
+		System.out.println("die Fakultaet von " + num + " betraegt: " + fact);
 	}
 
 }
